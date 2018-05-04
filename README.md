@@ -27,5 +27,6 @@ Also, you need to have Unity3D game engine, which can be downloaded from [here](
 
 ## screenshot
 ![wasil108](https://user-images.githubusercontent.com/31696557/39653814-0dfca2ae-5010-11e8-94b0-562c67afd726.png)
-![capture](https://user-images.githubusercontent.com/31696557/39654257-cd4b8782-5011-11e8-9503-3955da19f1f6.PNG)
+![capture](https://user-images.githubusercontent.com/31696557/39654354-11f0449a-5012-11e8-9112-7cf083a5b7d6.PNG)
+
 

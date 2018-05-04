@@ -6,8 +6,10 @@ It has a simple pipeline, to detect road lines in a frame, through a camera, whi
 
 ## Dependencies
 You can install depedencies by running the folowing command in anaconda prompt.
-#opencv2
+```
+#Opencv2
 conda install -c conda-forge opencv
+```
 
 Also, you need to have Unity3D game engine, which can be downloaded from [here](https://unity3d.com/)
 

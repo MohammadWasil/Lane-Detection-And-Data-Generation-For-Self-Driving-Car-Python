@@ -5,9 +5,9 @@ This code is for Lane Detection and Data Generation, which is going to be used i
 It has a simple pipeline, to detect road lines in a frame, through a camera, which is mounted on the hood of the car in Unity3D Simlulator.
 
 ## Dependencies
-You can install depedencies by running the folowing command in anaconda prompt.
+You can install depedencies by running the following command in anaconda prompt.
 ```
-#Opencv2
+# Opencv2
 conda install -c conda-forge opencv
 ```
 

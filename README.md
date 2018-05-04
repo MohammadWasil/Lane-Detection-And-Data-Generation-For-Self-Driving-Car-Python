@@ -19,11 +19,11 @@ Also, you need to have Unity3D game engine, which can be downloaded from [here](
 3) Your project will open in Unity3D.
 
 ## Workflow
-1) Change the directory, where the csv file is going to be saved.
-2) Change the directory, where all your images will be going to be saved.
-3) Now, run the unity3D simulator.
+1) In "Data Generation.py" file, change the directory, where the csv file is going to be saved.
+2) In "Data Generation.py" file, change the directory, where all your images will be going to be saved.
+3) Now, run the Unity3D Simulator.
 4) Then, Run the python script, Data Generation.py.
-5) Then start driving the car manually, using keyboard or joystick.
+5) Then, start driving the car manually, using keyboard or joystick.
 
 ## Screenshots
 ![wasil108](https://user-images.githubusercontent.com/31696557/39653814-0dfca2ae-5010-11e8-94b0-562c67afd726.png)

@@ -26,9 +26,6 @@ Also, you need to have Unity3D game engine, which can be downloaded from [here](
 5) Then, start driving the car manually, using keyboard or joystick.
 
 ## Screenshots
-![sdccar](![314](https://user-images.githubusercontent.com/31696557/135906985-01032fed-cbdb-45a9-95ff-d7504a3c064f.png))
-
-
 ![wasil108](https://user-images.githubusercontent.com/31696557/39653814-0dfca2ae-5010-11e8-94b0-562c67afd726.png)
 ![capture](https://user-images.githubusercontent.com/31696557/39654354-11f0449a-5012-11e8-9112-7cf083a5b7d6.PNG)
 
